@@ -25,6 +25,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@sveltejs/adapter-cloudflare": "^2.3.4",
     "web3": "^4.3.0"
   }
 }
